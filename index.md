@@ -52,9 +52,9 @@ __Course Staff__:
       </a>
     </div>
     <div class="col-md-2">
-      <a href="https://homes.cs.washington.edu/~ansross/">
-        <p>Annie Ross</p>
-        <p><img src="{{ site.baseurl }}/images/annie_photo.jpg" width="150" alt="Annie Ross"/></p>
+      <a href="https://homes.cs.washington.edu/~jesscs/">
+        <p>Jessie Schroeder</p>
+        <p><img src="{{ site.baseurl }}/images/jessie_photo.jpeg" width="150" alt="Jessie Schroeder"/></p>
       </a>
     </div>
   </div>
