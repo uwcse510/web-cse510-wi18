@@ -46,7 +46,7 @@ Working in groups is a necessary part of doing research, and also important for 
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>
+`<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>`
 
 You can also use that discussion identify potential project partners and to post your own ideas.
 
@@ -54,7 +54,7 @@ You can also use that discussion identify potential project partners and to post
 
 Sample project deliverables from prior offerings have been made available here:
 
-<https://canvas.uw.edu/courses/1138154/files/folder/project_samples>
+`<https://canvas.uw.edu/courses/1138154/files/folder/project_samples>`
 
 ## Early Feedback
 
@@ -63,17 +63,17 @@ Meeting is optional.
 You can also email to request feedback or to inquire about arranging another time to meet.
 Sign up for the reserved meeting times here:
 
-<http://doodle.com/poll/f6cha4mq2ttns2ra>
+`<http://doodle.com/poll/f6cha4mq2ttns2ra>`
 
 ## Project Deliverables
 
 Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.
 These are due:
 
-- _Proposal_:       {{ page.due.proposal }}
-- _Milestone_:      {{ page.due.milestone1 }}
-- _Milestone_:      {{ page.due.milestone2 }}
-- _Final Report_:   {{ page.due.finalreport }}
+`- _Proposal_:       {{ page.due.proposal }}`
+`- _Milestone_:      {{ page.due.milestone1 }}`
+`- _Milestone_:      {{ page.due.milestone2 }}`
+`- _Final Report_:   {{ page.due.finalreport }}`
 
 ### Proposal
 
@@ -117,25 +117,23 @@ Prepare a 1 page document addressing the following points:
 
 #### Presentation
 
-Prepare a presentation consisting of 3 to 4 slides.
+Prepare a presentation consisting of 3 to 4 slides. Each group will give a short in-class presentation.
 
-Each group will give a short in-class presentation of their proposal.
 This is an opportunity for feedback from staff and classmates.
 Your presentation should cover the same information as the document.
-
-This is an opportunity for feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
+Our primary goal is feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
 
 #### Submission
 
-Due: Uploaded the night before class {{ page.due.proposal }}
+`Due: Uploaded the night before class {{ page.due.proposal }}`
 
 Submit your proposal document in PDF format:
 
-<{{ page.canvas.proposal_doc}}>
+`<{{ page.canvas.proposal_doc}}>`
 
 Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-<{{ page.canvas.proposal_pres }}>
+`<{{ page.canvas.proposal_pres }}>`
 
 ### Milestone Reports
 
@@ -155,22 +153,20 @@ Prepare a 1 page document addressing the following points:
 
 #### Presentation
 
-Prepare a presentation consisting of 3 to 4 slides.
+Prepare a presentation consisting of 3 to 4 slides. Each group will give a short in-class presentation.
 
-Each group will give a short in-class presentation of their proposal.
 This is an opportunity for feedback from staff and classmates.
 Your presentation should cover the same information as the document.
-
-This is an opportunity for feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
+Our primary goal is feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
 
 #### Submission
 
-Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
+`Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.`
 
-- Milestone 1 document: <{{ page.canvas.milestone1_doc }}>
-- Milestone 1 presentation: <{{ page.canvas.milestone1_pres }}>
-- Milestone 2 document: <{{ page.canvas.milestone2_doc }}>
-- Milestone 2 presentation: <{{ page.canvas.milestone2_pres }}>
+`- Milestone 1 document: <{{ page.canvas.milestone1_doc }}>`
+`- Milestone 1 presentation: <{{ page.canvas.milestone1_pres }}>`
+`- Milestone 2 document: <{{ page.canvas.milestone2_doc }}>`
+`- Milestone 2 presentation: <{{ page.canvas.milestone2_pres }}>`
 
 Submit your milestone document in PDF format.
 
@@ -205,9 +201,9 @@ Writing Advice, White Paper, 2015.
 
 #### Submission
 
-Due: Uploaded by the end of day {{ page.due.finalreport }}.
+`Due: Uploaded by the end of day {{ page.due.finalreport }}.`
 
-<{{ page.canvas.final_rep }}>
+`<{{ page.canvas.final_rep }}>`
 
 Submit your final report document in PDF format.
 

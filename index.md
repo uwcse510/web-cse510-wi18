@@ -18,7 +18,6 @@ This page is still being migrated and developed. All content remains subject to 
 
 This course provides an introduction to several major areas of research in Human-Computer Interaction (HCI).
 It is based in a combination of readings and discussion, a small statistics lab, and a self-defined project.
-
 This course is explicitly not focused on the design methods commonly used in HCI practice.
 We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite),
 but students seeking an introduction to the design process will be better served by CSE 440.
@@ -35,9 +34,9 @@ We will emphasize open discussion and feedback in all aspects of the course.
 
 ## Basic Information
 
-__Contact__: Email all instructors at cse510-instr [at] cs.washington.edu
+__Contact__: Email all instructors at cse510-staff [at] cs.washington.edu
 
-__Class Time & Location__: Tuesdays & Thursdays, 11:00-12:20, MGH 058
+__Class Time & Location__: Tuesdays & Thursdays, 11:00-12:20, MGH 287
 
 __Office Hours__: By appointment, and as scheduled for project meetings.
 
@@ -111,7 +110,7 @@ Potential topics for discussion are:
 
 Discussions will be coordinated using Canvas, with a post for each day:
 
-< {{ page.canvas_url }}>
+`< {{ page.canvas_url }}>`
 
 Reading reports are due the night before each class meeting.
 This ensures time to review discussion before class the next morning.
@@ -128,14 +127,14 @@ Dates are also linked from the course calendar.
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>
+`<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>`
 
 You can also use that discussion identify potential project partners and to post your own ideas.
 
 ## Statistics Lab
 
-To aid in developing necessary skills, you will complete a statistics lab 
-in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
+To aid in developing necessary skills, you will complete a statistics lab. 
+We recommend using [R](//www.r-project.org/) for this lab.
 The lab will walk you through analyzing an example data set,
 and you will then analyze two datasets from published research papers.
 
@@ -156,15 +155,15 @@ Jacob Wobbrock's independent study in Practical Statistics for Human-Computer I
 
 The assignment is available for download:
 
-<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>
+`<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>`
 
 ### Submission
 
-Due: Uploaded Friday, May 19, 2017.
+`Due: Uploaded Friday, May 19, 2017.`
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
-<{{page.canvas_stats}}>
+`<{{page.canvas_stats}}>`
 
 ## Exam
 
@@ -179,13 +178,13 @@ You may consult the course staff with any questions, but this is strictly an ind
 
 The exam is available for download:
 
-<{{ page.canvas_exam }}>
+`<{{ page.canvas_exam }}>`
 
 ### Submission
 
-Due: Uploaded by end of day Wednesday, June 7, 2017.
+`Due: Uploaded by end of day Wednesday, June 7, 2017.`
 
-<{{ page.canvas_exam_submit }}>
+`<{{ page.canvas_exam_submit }}>`
 
 ## Grading
 
@@ -205,4 +204,4 @@ but it is your responsibility to communicate with us if you would like guidance 
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse510/web-cse510-sp17>
+<https://github.com/uwcse510/web-cse510-wi18>
