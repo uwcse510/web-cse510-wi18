@@ -24,7 +24,7 @@ paper_url:
   artifact_buschek2017:         https://canvas.uw.edu/files/45687998/download?download_frd=1
   artifact_kery2017:            https://canvas.uw.edu/files/45687999/download?download_frd=1
   dataset_yin2017:              https://canvas.uw.edu/files/45688000/download?download_frd=1
-  dataset_deka2017:             https://dl.acm.org/citation.cfm?id=3126651         
+  dataset_deka2017:             https://canvas.uw.edu/files/45693284/download?download_frd=1      
   empirical_abdelrahman2017:    https://canvas.uw.edu/files/45688001/download?download_frd=1
   empirical_fan2017:            https://canvas.uw.edu/files/45688002/download?download_frd=1
   method_elsden2017:            https://canvas.uw.edu/files/45688006/download?download_frd=1
