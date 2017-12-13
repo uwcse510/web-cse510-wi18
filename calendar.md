@@ -4,41 +4,41 @@ title: Calendar
 
 paper_url:
 # History
-grudin2012:                   <to be linked>
-#  # Visions
-#  bederson1994:                 https://canvas.uw.edu/files/41501949/download?download_frd=1
-#  bush1945:                     https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
-#  fitts1954:                    https://canvas.uw.edu/files/41501950/download?download_frd=1
-#  hollan1992:                   https://canvas.uw.edu/files/41502180/download?download_frd=1
-#  ishii1997:                    https://canvas.uw.edu/files/41502181/download?download_frd=1
-#  pinhanez2001:                 https://canvas.uw.edu/files/41501944/download?download_frd=1
-#  want1992:                     https://canvas.uw.edu/files/41501946/download?download_frd=1
-#  want2002:                     https://canvas.uw.edu/files/41501947/download?download_frd=1
-#  weiser1991:                   https://canvas.uw.edu/files/41501948/download?download_frd=1
-#  wellner1993:                  https://canvas.uw.edu/files/41502182/download?download_frd=1
-#  wellner1993_video:            http://www.youtube.com/watch?v=S8lCetZ_57g
-#  victor2006:                   https://worrydream.com/MagicInk/
-#  # Contributions and Methods
-#  wobbrock2016:                 https://canvas.uw.edu/files/41501849/download?download_frd=1
-#  fogarty2017:                  https://canvas.uw.edu/files/41521924/download?download_frd=1
-#  artifact_buschek2017:         https://canvas.uw.edu/files/41567552/download?download_frd=1
-#  artifact_kery2017:            https://canvas.uw.edu/files/41567554/download?download_frd=1
-#  dataset_yin2017:              https://canvas.uw.edu/files/41567555/download?download_frd=1
-#  dataset_deka2016:             https://canvas.uw.edu/files/41587812/download?download_frd=1
-#  empirical_abdelrahman2017:    https://canvas.uw.edu/files/41567557/download?download_frd=1
-#  empirical_fan2017:            https://canvas.uw.edu/files/41567558/download?download_frd=1
-#  method_elsden2017:            https://canvas.uw.edu/files/41567559/download?download_frd=1
-#  method_prabhakar2017:         https://canvas.uw.edu/files/41567560/download?download_frd=1
-#  opinion_lazar2017:            https://canvas.uw.edu/files/41567562/download?download_frd=1
-#  opinion_marshall2017:         https://canvas.uw.edu/files/41567563/download?download_frd=1
-#  survey_velt2017:              https://canvas.uw.edu/files/41567564/download?download_frd=1
-#  theory_alkhatib2017:          https://canvas.uw.edu/files/41567565/download?download_frd=1
-#  theory_hornbaek2017:          https://canvas.uw.edu/files/41567566/download?download_frd=1
-#  survey_schlesinger2017:       https://canvas.uw.edu/files/41568236/download?download_frd=1
-#  # Usability Evaluation Considered Harmful
-#  stokes1997:                   https://canvas.uw.edu/files/41702911/download?download_frd=1
-#  simon1998:                    https://canvas.uw.edu/files/41702495/download?download_frd=1
-#  greenberg2008:                https://canvas.uw.edu/files/41702480/download?download_frd=1
+  grudin2012:                   https://canvas.uw.edu/files/45688012/download?download_frd=1
+# Visions
+  bederson1994:                 https://canvas.uw.edu/files/45688023/download?download_frd=1
+  bush1945:                     https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+  fitts1954:                    https://canvas.uw.edu/files/45688024/download?download_frd=1
+  hollan1992:                   https://canvas.uw.edu/files/45688026/download?download_frd=1
+  ishii1997:                    https://canvas.uw.edu/files/45688027/download?download_frd=1
+  pinhanez2001:                 https://canvas.uw.edu/files/45688017/download?download_frd=1
+  want1992:                     https://canvas.uw.edu/files/45688019/download?download_frd=1
+  want2002:                     https://canvas.uw.edu/files/45688020/download?download_frd=1
+  weiser1991:                   https://canvas.uw.edu/files/45688021/download?download_frd=1
+  wellner1993:                  https://canvas.uw.edu/files/45688022/download?download_frd=1
+  wellner1993_video:            http://www.youtube.com/watch?v=S8lCetZ_57g
+  victor2006:                   http://worrydream.com/MagicInk/
+# Contributions and Methods
+  wobbrock2016:                 https://canvas.uw.edu/files/45687997/download?download_frd=1
+  fogarty2017:                  https://canvas.uw.edu/files/45688004/download?download_frd=1
+  artifact_buschek2017:         https://canvas.uw.edu/files/45687998/download?download_frd=1
+  artifact_kery2017:            https://canvas.uw.edu/files/45687999/download?download_frd=1
+  dataset_yin2017:              https://canvas.uw.edu/files/45688000/download?download_frd=1
+  dataset_deka2017:             https://canvas.uw.edu/files/45693284/download?download_frd=1      
+  empirical_abdelrahman2017:    https://canvas.uw.edu/files/45688001/download?download_frd=1
+  empirical_fan2017:            https://canvas.uw.edu/files/45688002/download?download_frd=1
+  method_elsden2017:            https://canvas.uw.edu/files/45688006/download?download_frd=1
+  method_prabhakar2017:         https://canvas.uw.edu/files/45688007/download?download_frd=1
+  opinion_lazar2017:            https://canvas.uw.edu/files/45688009/download?download_frd=1
+  opinion_marshall2017:         https://canvas.uw.edu/files/45688010/download?download_frd=1
+  survey_velt2017:              https://canvas.uw.edu/files/45687993/download?download_frd=1
+  theory_alkhatib2017:          https://canvas.uw.edu/files/45687994/download?download_frd=1
+  theory_hornbaek2017:          https://canvas.uw.edu/files/45687995/download?download_frd=1
+  survey_schlesinger2017:       https://canvas.uw.edu/files/45687992/download?download_frd=1
+# Usability Evaluation Considered Harmful
+  stokes1997:                   https://canvas.uw.edu/files/45688794/download?download_frd=1
+  simon1998:                    https://canvas.uw.edu/files/45688793/download?download_frd=1
+  greenberg2008:                https://canvas.uw.edu/files/45688795/download?download_frd=1
 #  # ICTD
 #  toyama2011:                   https://canvas.uw.edu/files/41704822/download?download_frd=1
 #  heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
@@ -192,7 +192,7 @@ calendar:
         </li>
         </ul>
 
-        Below are examples of papers from CHI 2017 that correspond to Wobbrock's types of research contribution in HCI.
+        Below are examples of recent papers that correspond to Wobbrock's types of research contribution in HCI.
 
         Select two to review, focusing on papers that are most likely to correspond to the contribution style(s) relevant in your project.
         You should not focus on the details of these papers, but rather their organization of the research and how it is presented.
@@ -244,7 +244,7 @@ calendar:
         Kodlee Yin, Cecilia Aragon, Sarah Evans, Katie Davis. [Where No One Has Gone Before: A Meta-Dataset of the World’s Largest Fanfiction Repository]({{ page.paper_url.dataset_yin2017 }}). CHI 2017.
         </li>
         <li class="paper" markdown="block">
-        Biplab Deka, Zifeng Huang, Ranjitha Kumar. [ERICA: Interaction Mining Mobile Apps]({{ page.paper_url.dataset_deka2016 }}). UIST 2016.
+        Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar. [Rico: A Mobile App Dataset for Building Data-Driven Design Applications]({{ page.paper_url.dataset_deka2017 }}). UIST 2017.
         </li>
         </ul>
 
