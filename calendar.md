@@ -18,6 +18,8 @@ paper_url:
   wellner1993:                  https://canvas.uw.edu/files/45688022/download?download_frd=1
   wellner1993_video:            http://www.youtube.com/watch?v=S8lCetZ_57g
   victor2006:                   http://worrydream.com/MagicInk/
+  horvitz1999:                  https://canvas.uw.edu/files/45770588/download?download_frd=1 
+  hinckley2000:                 https://canvas.uw.edu/files/45770587/download?download_frd=1 
 # Contributions and Methods
   wobbrock2016:                 https://canvas.uw.edu/files/45687997/download?download_frd=1
   fogarty2017:                  https://canvas.uw.edu/files/45688004/download?download_frd=1
@@ -136,6 +138,12 @@ calendar:
         </li>
         <li class="paper" markdown="block">
         Hiroshi Ishii, Brygg Ullmer. [Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms]({{ page.paper_url.ishii1997 }}). CHI 1997.
+        </li>
+        <li class="paper" markdown="block">
+        Eric Horvitz. [Principles of Mixed-Initiative User Interfaces]({{ page.paper_url.horvitz1999 }}). CHI 1999.
+        </li>
+        <li class="paper" markdown="block">
+        Ken Hinckley, Jeff Pierce, Mike Sinclair, Eric Horvitz. [Sensing Techniques for Mobile Interaction]({{ page.paper_url.hinckley2000 }}). UIST 2000.
         </li>
         <li class="paper" markdown="block">
         Claudio S. Pinhanez. [The Everywhere Displays Projector: A Device to Create Ubiquitous Graphical Interfaces]({{ page.paper_url.pinhanez2001 }}). UbiComp 2001.
