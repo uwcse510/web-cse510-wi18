@@ -3,10 +3,10 @@ layout: base/bar/bar-sidebar-none
 title: "Project"
 
 due:
-  proposal:     Tuesday, April 11, 2017
-  milestone1:   Thursday, April 27, 2017
-  milestone2:   Thursday, May 30, 2017
-  finalreport:  Monday, June 5, 2017
+  proposal:     Tuesday, January 16, 2018
+  milestone1:   Tuesday, February 6, 2018
+  milestone2:   Tuesday, February 27, 2018
+  finalreport:  Monday, March 12, 2018
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
   proposal_doc:     https://canvas.uw.edu/courses/1138154/assignments/3697851
@@ -46,7 +46,7 @@ Working in groups is a necessary part of doing research, and also important for 
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-`<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>`
+<https://canvas.uw.edu/courses/1187533/discussion_topics/4094422>
 
 You can also use that discussion identify potential project partners and to post your own ideas.
 
@@ -58,22 +58,25 @@ Sample project deliverables from prior offerings have been made available here:
 
 ## Early Feedback
 
-Course staff will be available to meet and provide early feedback on Monday April 3 and Friday April 7.
+Course staff will be available to meet and provide early feedback during the week of January 8 to January 12.
 Meeting is optional.
 You can also email to request feedback or to inquire about arranging another time to meet.
 Sign up for the reserved meeting times here:
 
-`<http://doodle.com/poll/f6cha4mq2ttns2ra>`
+<https://doodle.com/poll/sdzkzasa5n3ny997>
+
+Apologies that the Doodle interface is horrible.  I will try something else in the future.
+Rest assured that the interface for creating these meeting times is also horrible.
 
 ## Project Deliverables
 
 Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.
 These are due:
 
-`- _Proposal_:       {{ page.due.proposal }}`
-`- _Milestone_:      {{ page.due.milestone1 }}`
-`- _Milestone_:      {{ page.due.milestone2 }}`
-`- _Final Report_:   {{ page.due.finalreport }}`
+- _Proposal_:       {{ page.due.proposal }}
+- _Milestone_:      {{ page.due.milestone1 }}
+- _Milestone_:      {{ page.due.milestone2 }}
+- _Final Report_:   {{ page.due.finalreport }}
 
 ### Proposal
 
@@ -125,7 +128,7 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 #### Submission
 
-`Due: Uploaded the night before class {{ page.due.proposal }}`
+Due: Uploaded the night before class {{ page.due.proposal }}
 
 Submit your proposal document in PDF format:
 
@@ -161,12 +164,12 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 #### Submission
 
-`Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.`
+Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
 
-`- Milestone 1 document: <{{ page.canvas.milestone1_doc }}>`
-`- Milestone 1 presentation: <{{ page.canvas.milestone1_pres }}>`
-`- Milestone 2 document: <{{ page.canvas.milestone2_doc }}>`
-`- Milestone 2 presentation: <{{ page.canvas.milestone2_pres }}>`
+- Milestone 1 document: `<{{ page.canvas.milestone1_doc }}>`
+- Milestone 1 presentation: `<{{ page.canvas.milestone1_pres }}>`
+- Milestone 2 document: `<{{ page.canvas.milestone2_doc }}>`
+- Milestone 2 presentation: `<{{ page.canvas.milestone2_pres }}>`
 
 Submit your milestone document in PDF format.
 
@@ -201,7 +204,7 @@ Writing Advice, White Paper, 2015.
 
 #### Submission
 
-`Due: Uploaded by the end of day {{ page.due.finalreport }}.`
+Due: Uploaded by the end of day {{ page.due.finalreport }}.
 
 `<{{ page.canvas.final_rep }}>`
 
