@@ -19,9 +19,11 @@ paper_url:
   wobbrock2015:     https://canvas.uw.edu/files/42006907/download?download_frd=1
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 ## Overview
 
@@ -54,7 +56,7 @@ You can also use that discussion identify potential project partners and to post
 
 Sample project deliverables from prior offerings have been made available here:
 
-`<https://canvas.uw.edu/courses/1138154/files/folder/project_samples>`
+<https://canvas.uw.edu/courses/1187533/files/folder/project_samples>
 
 ## Early Feedback
 
