@@ -18,13 +18,13 @@ This page is still being migrated and developed. All content remains subject to 
 
 This course provides an introduction to several major areas of research in Human-Computer Interaction (HCI).
 It is based in a combination of readings and discussion, a small statistics lab, and a self-defined project.
-This course is explicitly not focused on the design methods commonly used in HCI practice.
-We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite),
-but students seeking an introduction to the design process will be better served by CSE 440.
-
 The course readings will require preparing reports on a combination of historic framing papers and more current results.
 This will help you examine what the HCI community considers a meaningful contribution across a variety of problems, 
 thus helping prepare you to understand and make meaningful contributions in these and other areas of HCI.
+
+This course is explicitly not focused on the design methods commonly used in HCI practice.
+We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite),
+but students seeking an introduction to effective design or the design process will be better served by CSE 440.
 
 The course project will require hands-on experience with HCI, while remaining open to different possibilities. 
 You might choose to design and implement a new piece of HCI technology, 
