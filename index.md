@@ -2,29 +2,31 @@
 layout: base/bar/bar-sidebar-none
 title: Course Overview
 
-canvas_url: https://canvas.uw.edu/courses/1138154
+canvas_url: https://canvas.uw.edu/courses/1187533/discussion_topics
 
-canvas_stats: https://canvas.uw.edu/courses/1138154/assignments/3740017
+canvas_stats_submit: 
 
-canvas_exam: https://canvas.uw.edu/files/42803315/download?download_frd=1
-canvas_exam_submit: https://canvas.uw.edu/courses/1138154/assignments/3752580
+canvas_exam: 
+canvas_exam_submit: 
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 ## Course Description
 
 This course provides an introduction to several major areas of research in Human-Computer Interaction (HCI).
 It is based in a combination of readings and discussion, a small statistics lab, and a self-defined project.
-This course is explicitly not focused on the design methods commonly used in HCI practice.
-We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite),
-but students seeking an introduction to the design process will be better served by CSE 440.
-
 The course readings will require preparing reports on a combination of historic framing papers and more current results.
 This will help you examine what the HCI community considers a meaningful contribution across a variety of problems, 
 thus helping prepare you to understand and make meaningful contributions in these and other areas of HCI.
+
+This course is explicitly not focused on the design methods commonly used in HCI practice.
+We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite),
+but students seeking an introduction to effective design or the design process will be better served by CSE 440.
 
 The course project will require hands-on experience with HCI, while remaining open to different possibilities. 
 You might choose to design and implement a new piece of HCI technology, 
@@ -110,7 +112,7 @@ Potential topics for discussion are:
 
 Discussions will be coordinated using Canvas, with a post for each day:
 
-`< {{ page.canvas_url }}>`
+<{{ page.canvas_url }}>
 
 Reading reports are due the night before each class meeting.
 This ensures time to review discussion before class the next morning.
@@ -127,7 +129,7 @@ Dates are also linked from the course calendar.
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-`<https://canvas.uw.edu/courses/1138154/discussion_topics/3752044>`
+<https://canvas.uw.edu/courses/1187533/discussion_topics/4094422>
 
 You can also use that discussion identify potential project partners and to post your own ideas.
 
@@ -163,7 +165,7 @@ The assignment is available for download:
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
-`<{{page.canvas_stats}}>`
+`<{{page.canvas_stats_submit}}>`
 
 ## Exam
 
