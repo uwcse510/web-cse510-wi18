@@ -297,7 +297,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Start Early to Accommodate Presentations
+        Class Will Start at 10:30 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -368,7 +368,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Start Early to Accommodate Presentations
+        Class Will Start at 10:30 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -400,7 +400,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Start Early to Accommodate Presentations
+        Class Will Start at 10:30 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
