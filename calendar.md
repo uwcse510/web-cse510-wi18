@@ -99,6 +99,18 @@ calendar:
       - |
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
 
+  - date:  Mon&nbsp;Jan&nbsp;8 to&nbsp;Fri&nbsp;Jan&nbsp;12
+    title: Project Early Feedback Meetings
+    content:
+      - |
+        Meeting is optional. You can also email to request feedback or to inquire about arranging another time to meet. 
+        Sign up for the reserved meeting times here:
+        
+        <https://doodle.com/poll/sdzkzasa5n3ny997>
+        
+        Apologies that the Doodle interface is horrible. I will try something else in the future. 
+        Rest assured that the interface for creating these meeting times is also horrible.
+
   - date: Tue Jan 9
     title: "Visions of Human-Computer Interaction"
     content:
@@ -282,6 +294,53 @@ calendar:
 
   - date: Tue Jan 16
     title: "Project Proposal Presentations / Usability Evaluation Considered Harmful"
+    content:
+      - |
+        <div class="alert" markdown="block">
+        Class May Start Early to Accommodate Presentations
+        </div>
+      - |
+        <div class="major" markdown="block">
+        Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
+        </div>
+      - |
+        Read the following:
+
+        <ul class="readings" markdown="block">
+        <li class="paper" markdown="block">
+        Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)]({{ page.paper_url.greenberg2008 }}). CHI 2008.
+        </li>
+        </ul>
+
+        Additional optional resources:
+
+        <ul class="paper" markdown="block">
+        <li class="paper" markdown="block">
+        Herbert A. Simon. [The Science of Design: Creating the Artificial]({{ page.paper_url.simon1998 }}). Design Issues Volume 4, Numbers 1 & 2.
+        </li>
+        <li class="paper" markdown="block">
+        Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ page.paper_url.stokes1997 }}). Book Chapter.
+        </li>
+        </ul>
+      - |
+        ### Submission
+        
+        Submit your proposal document in PDF format:
+
+        <{{ page.canvas.proposal_doc }}>
+
+        Submit your proposal presentation in PDF, PPT, or PPTX format:
+
+        <{{ page.canvas.proposal_pres }}>
+      - |
+        ### Non-Standard Reading Format
+
+        Post a reading report in the appropriate thread:
+
+        <https://canvas.uw.edu/courses/1187533/discussion_topics>
+
+        Only one paper is assigned, so that will be the focus of your reading report.
+
   - date: Thu Jan 18
     title: "Research Topic: TBD"
   - date: Tue Jan 23
@@ -295,6 +354,7 @@ calendar:
         <div class="alert" markdown="block">
         James Away
         </div>
+        
   - date: Thu Feb 1
     title: "Research Topic: TBD"
     content:
@@ -302,8 +362,29 @@ calendar:
         <div class="alert" markdown="block">
         James Away
         </div>
+        
   - date: Tue Feb 6
     title: "Project Progress Presentations"
+    content:
+      - |
+        <div class="alert" markdown="block">
+        Class May Start Early to Accommodate Presentations
+        </div>
+      - |
+        <div class="major" markdown="block">
+        Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
+        </div>
+      - |
+        ### Submission
+        
+        Submit your document in PDF format:
+
+        <{{ page.canvas.milestone1_doc }}>
+      - |
+        Submit your presentation in PDF, PPT, or PPTX format:
+
+        <{{ page.canvas.milestone1_pres }}>
+        
   - date: Thu Feb 8
     title: "Research Topic: TBD"
   - date: Tue Feb 13
@@ -316,85 +397,47 @@ calendar:
     title: "Research Topic: TBD"
   - date: Tue Feb 27
     title: "Project Progress Presentations"
+    content:
+      - |
+        <div class="alert" markdown="block">
+        Class May Start Early to Accommodate Presentations
+        </div>
+      - |
+        <div class="major" markdown="block">
+        Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
+        </div>
+      - |
+        ### Submission
+        
+        Submit your document in PDF format:
+
+        <{{ page.canvas.milestone2_doc }}>
+
+        Submit your presentation in PDF, PPT, or PPTX format:
+
+        <{{ page.canvas.milestone2_pres }}>
+        
   - date: Thu Mar 1
     title: "Research Topic: TBD"
   - date: Tue Mar 6
     title: "Research Topic: TBD"
   - date: Thu Mar 8
     title: "Research Topic: TBD"
+  - date:  Mon Mar 12
+    title: Final Project Due
+    content:
+      - |
+        <div class="major" markdown="block">
+        Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)
+        </div>
+      - |
+        ### Submission
+        
+        Submit your document in PDF format:
+
+        <{{ page.canvas.final_rep }}>
   
-#  - date: Thu Mar 30
-#    collapse: true
-#    slides: "https://canvas.uw.edu/files/41659818/download?download_frd=1"
-#    title: Course Overview and HCI History
-#  - date:  Mon Apr 3
-#    collapse: true
-#    title: Project Feedback Meetings
-#    content:
-#      - |
-#        <http://doodle.com/poll/f6cha4mq2ttns2ra>
 
-#  - date:  Thu Apr 6
-#    collapse: true
-#    slides: "https://canvas.uw.edu/files/41762631/download?download_frd=1"
-#    title: Contributions and Methods in HCI
-
-#  - date:  Fri Apr 7
-#    collapse: true
-#    title: Project Feedback Meetings
-#    content:
-#      - |
-#        <http://doodle.com/poll/f6cha4mq2ttns2ra>
-#  - date:  Tue Apr 11
-#    collapse: true
-#    slides: "https://canvas.uw.edu/courses/1138154/files/folder/slides/l04-proposals"
-#    title: Project Proposal Presentations / Usability Evaluation Considered Harmful
-#    content:
-#      - |
-#        <div class="alert" markdown="block">
-#        Class Will Start at 10:30 to Accommodate Presentations
-#        </div>
-#      - |
-#        <div class="major" markdown="block">
-#        Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
-#        </div>
-#      - |
-#        Read the following:
-#
-#        <ul class="readings" markdown="block">
-#        <li class="paper" markdown="block">
-#        Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)]({{ page.paper_url.greenberg2008 }}). CHI 2008.
-#        </li>
-#        </ul>
-#
-#        Additional optional resources:
-#
-#        <ul class="paper" markdown="block">
-#        <li class="paper" markdown="block">
-#        Herbert A. Simon. [The Science of Design: Creating the Artificial]({{ page.paper_url.simon1998 }}). Design Issues Volume 4, Numbers 1 & 2.
-#        </li>
-#        <li class="paper" markdown="block">
-#        Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ page.paper_url.stokes1997 }}). Book Chapter.
-#        </li>
-#        </ul>
-#      - |
-#        ### Submission
-#        
-#        Submit your proposal document in PDF format:
-#
-#        <{{ page.canvas.proposal_doc }}>
-#
-#        Submit your proposal presentation in PDF, PPT, or PPTX format:
-#
-#        <{{ page.canvas.proposal_pres }}>
-#      - |
-#        ### Non-Standard Reading Format
-#
-#        Post a reading report in the appropriate thread:
-#
-#        <https://canvas.uw.edu/courses/1138154/discussion_topics/3769804>
-#
-#        Only one paper is assigned, so that will be the focus of your reading report.
 #  - date:  Thu Apr 13
 #    collapse: true
 #    slides: "https://canvas.uw.edu/files/42010327/download?download_frd=1"
@@ -448,29 +491,7 @@ calendar:
 #    content:
 #      - |
 #        No Readings Assigned
-#  - date:  Thu Apr 27
-#    collapse: true
-#    title: Project Progress Presentations
-#    slides: "https://canvas.uw.edu/courses/1138154/files/folder/slides/l08-milestone"
-#    content:
-#      - |
-#        <div class="alert" markdown="block">
-#        Class Will Start at 10:30 to Accommodate Presentations
-#        </div>
-#      - |
-#        <div class="major" markdown="block">
-#        Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
-#        </div>
-#      - |
-#        ### Submission
-#        
-#        Submit your document in PDF format:
-#
-#        <{{ page.canvas.milestone1_doc }}>
-#      - |
-#        Submit your presentation in PDF, PPT, or PPTX format:
-#
-#        <{{ page.canvas.milestone1_pres }}>
+
 #  - date:  Tue May 2
 #    collapse: true
 #    title: "Research Topic: Accessibility"
@@ -506,24 +527,7 @@ calendar:
 ##    reading_resources:
 ##      - |
 ##      - |
-#  - date:  Tue May 9
-#    title: No Class - CHI 2017
-#    content:
-#      - |
-#        <div class="alert" markdown="block">
-#        James Away, Annie Away
-#        </div>
-#      - |
-#        No Readings Assigned
-#  - date:  Thu May 11
-#    title: No Class - CHI 2017
-#    content:
-#      - |
-#        <div class="alert" markdown="block">
-#        James Away, Annie Away
-#        </div>
-#      - |
-#        No Readings Assigned
+
 #  - date:  Tue May 16
 #    collapse: true
 #    title: "Research Topic: Human-Centered Machine Learning"
@@ -562,16 +566,7 @@ calendar:
 #        <div class="major" markdown="block">
 #        Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
 #        </div>
-#  - date:  Tue May 23
-#    collapse: True
-#    title: No Class
-#    content:
-#      - |
-#        <div class="alert" markdown="block">
-#        James Away
-#        </div>
-#      - |
-#        No Readings Assigned
+
 #  - date:  Thu May 25
 #    collapse: True
 #    title: "Research Topic: Interacting with Cameras"
@@ -586,29 +581,7 @@ calendar:
 #        Chris Harrison, Hrvoje Benko, Andrew D. Wilson. [OmniTouch: Wearable Multitouch Interaction Everywhere]({{ page.paper_url.harrison2011 }}). UIST 2011.
 #      - |
 #        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
-#  - date:  Tue May 30
-#    collapse: True
-#    slides: "https://canvas.uw.edu/courses/1138154/files/folder/slides/l14-milestone"
-#    title: Project Progress Presentations
-#    content:
-#      - |
-#        <div class="alert" markdown="block">
-#        Class Will Start at 10:30 to Accommodate Presentations
-#        </div>
-#      - |
-#        <div class="major" markdown="block">
-#        Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
-#        </div>
-#      - |
-#        ### Submission
-#        
-#        Submit your document in PDF format:
-#
-#        <{{ page.canvas.milestone2_doc }}>
-#
-#        Submit your presentation in PDF, PPT, or PPTX format:
-#
-#        <{{ page.canvas.milestone2_pres }}>
+
 #  - date:  Thu Jun 1
 #    collapse: True
 #    title: "Research Topic: Interacting with Code"
@@ -626,19 +599,6 @@ calendar:
 ##    reading_resources:
 ##      - |
 ##      - |
-#  - date:  Mon Jun 5
-#    title: Final Project Due
-#    content:
-#      - |
-#        <div class="major" markdown="block">
-#        Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)
-#        </div>
-#      - |
-#        ### Submission
-#        
-#        Submit your document in PDF format:
-#
-#        <{{ page.canvas.final_rep }}>
 ---
 
 <div class="alert alert-danger" markdown="1">
