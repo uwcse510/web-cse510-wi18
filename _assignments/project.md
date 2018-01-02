@@ -8,13 +8,13 @@ due:
   milestone2:   Tuesday, February 27, 2018
   finalreport:  Monday, March 12, 2018
 canvas:
-  proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
-  proposal_doc:     https://canvas.uw.edu/courses/1138154/assignments/3697851
-  milestone1_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697944
-  milestone1_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697946
-  milestone2_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697955
-  milestone2_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697972
-  final_rep:        https://canvas.uw.edu/courses/1138154/assignments/3697976
+  proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
+  proposal_doc:     https://canvas.uw.edu/courses/1187533/assignments/4017993
+  milestone1_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018016
+  milestone1_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018014
+  milestone2_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018019
+  milestone2_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018017
+  final_rep:        https://canvas.uw.edu/courses/1187533/assignments/4018022
 paper_url:
   wobbrock2015:     https://canvas.uw.edu/files/42006907/download?download_frd=1
 ---
@@ -134,11 +134,11 @@ Due: Uploaded the night before class {{ page.due.proposal }}
 
 Submit your proposal document in PDF format:
 
-`<{{ page.canvas.proposal_doc}}>`
+<{{ page.canvas.proposal_doc}}>
 
 Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-`<{{ page.canvas.proposal_pres }}>`
+<{{ page.canvas.proposal_pres }}>
 
 ### Milestone Reports
 
@@ -168,10 +168,10 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
 
-- Milestone 1 document: `<{{ page.canvas.milestone1_doc }}>`
-- Milestone 1 presentation: `<{{ page.canvas.milestone1_pres }}>`
-- Milestone 2 document: `<{{ page.canvas.milestone2_doc }}>`
-- Milestone 2 presentation: `<{{ page.canvas.milestone2_pres }}>`
+- Milestone 1 document: <{{ page.canvas.milestone1_doc }}>
+- Milestone 1 presentation: <{{ page.canvas.milestone1_pres }}>
+- Milestone 2 document: <{{ page.canvas.milestone2_doc }}>
+- Milestone 2 presentation: <{{ page.canvas.milestone2_pres }}>
 
 Submit your milestone document in PDF format.
 
@@ -208,7 +208,7 @@ Writing Advice, White Paper, 2015.
 
 Due: Uploaded by the end of day {{ page.due.finalreport }}.
 
-`<{{ page.canvas.final_rep }}>`
+<{{ page.canvas.final_rep }}>
 
 Submit your final report document in PDF format.
 

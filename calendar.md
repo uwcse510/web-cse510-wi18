@@ -80,13 +80,13 @@ paper_url:
 #  myers2000:                    https://canvas.uw.edu/files/42020393/download?download_frd=1
 
 canvas:
-#  proposal_pres:    https://canvas.uw.edu/courses/1138154/assignments/3697898
-#  proposal_doc:     https://canvas.uw.edu/courses/1138154/assignments/3697851
-#  milestone1_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697944
-#  milestone1_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697946
-#  milestone2_pres:  https://canvas.uw.edu/courses/1138154/assignments/3697955
-#  milestone2_doc:   https://canvas.uw.edu/courses/1138154/assignments/3697972
-#  final_rep:        https://canvas.uw.edu/courses/1138154/assignments/3697976
+  proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
+  proposal_doc:     https://canvas.uw.edu/courses/1187533/assignments/4017993
+  milestone1_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018016
+  milestone1_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018014
+  milestone2_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018019
+  milestone2_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018017
+  final_rep:        https://canvas.uw.edu/courses/1187533/assignments/4018022
 #  stats:            https://canvas.uw.edu/courses/1138154/assignments/3740017
 
 calendar:
