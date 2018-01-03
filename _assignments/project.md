@@ -61,14 +61,12 @@ Sample project deliverables from prior offerings have been made available here:
 ## Early Feedback
 
 Course staff will be available to meet and provide early feedback during the week of January 8 to January 12.
+
 Meeting is optional.
 You can also email to request feedback or to inquire about arranging another time to meet.
 Sign up for the reserved meeting times here:
 
-<https://doodle.com/poll/sdzkzasa5n3ny997>
-
-Apologies that the Doodle interface is horrible.  I will try something else in the future.
-Rest assured that the interface for creating these meeting times is also horrible.
+<https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>
 
 ## Project Deliverables
 
