@@ -106,11 +106,8 @@ calendar:
         Meeting is optional. You can also email to request feedback or to inquire about arranging another time to meet. 
         Sign up for the reserved meeting times here:
         
-        <https://doodle.com/poll/sdzkzasa5n3ny997>
+        <https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>
         
-        Apologies that the Doodle interface is horrible. I will try something else in the future. 
-        Rest assured that the interface for creating these meeting times is also horrible.
-
   - date: Tue Jan 9
     title: "Visions of Human-Computer Interaction"
     content:
