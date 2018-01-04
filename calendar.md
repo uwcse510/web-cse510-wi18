@@ -92,6 +92,7 @@ canvas:
 calendar:
   - date: Thu Jan 4
     title: "Course Overview and HCI History"
+    slides: "https://canvas.uw.edu/files/45936596/download?download_frd=1"
     content:
       - |
         No Readings Assigned
