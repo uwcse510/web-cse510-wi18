@@ -421,7 +421,8 @@ calendar:
   - date: Tue Mar 6
     title: "Research Topic: TBD"
   - date: Thu Mar 8
-    title: "Research Topic: TBD"
+    title: "Research Topic: Critical Inquiry in HCI and Design"
+    guest: "[Daniela Rosner](http://www.danielarosner.com/)"
   - date:  Mon Mar 12
     title: Final Project Due
     content:
