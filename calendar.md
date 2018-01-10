@@ -403,7 +403,7 @@ calendar:
     title: "Research Topic: Accessibility"
     guest: "[Leah Findlater](https://faculty.washington.edu/leahkf/)"
 
-- date: Thu Feb 15
+  - date: Thu Feb 15
     title: "Research Topic: TBD"
   - date: Tue Feb 20
     title: "Research Topic: TBD"
