@@ -356,7 +356,8 @@ calendar:
         </div>
         
   - date: Thu Feb 1
-    title: "Research Topic: TBD"
+    title: "Research Topic: Information and Communication Technologies and Development"
+    guest: "[Kurtis Heimerl](http://kurti.sh/)"
     content:
       - |
         <div class="alert" markdown="block">
@@ -399,8 +400,10 @@ calendar:
         Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch]( {{ page.paper_url.vogel2007 }}). CHI 2007.
 
   - date: Tue Feb 13
-    title: "Research Topic: TBD"
-  - date: Thu Feb 15
+    title: "Research Topic: Accessibility"
+    guest: "[Leah Findlater](https://faculty.washington.edu/leahkf/)"
+
+- date: Thu Feb 15
     title: "Research Topic: TBD"
   - date: Tue Feb 20
     title: "Research Topic: TBD"
