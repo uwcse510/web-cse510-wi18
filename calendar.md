@@ -112,6 +112,7 @@ calendar:
         
   - date: Tue Jan 9
     title: "Visions of Human-Computer Interaction"
+    collapse: True
     content:
       - |
         These "vision" papers challenge a dominant pattern,
