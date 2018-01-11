@@ -405,8 +405,11 @@ calendar:
 
   - date: Thu Feb 15
     title: "Research Topic: TBD"
+
   - date: Tue Feb 20
-    title: "Research Topic: TBD"
+    title: "Research Topic: Context-Aware Interaction"
+    guest: "[Anind Dey](https://www.cs.cmu.edu/~anind/)"
+    
   - date: Thu Feb 22
     title: "Research Topic: TBD"
   - date: Tue Feb 27
