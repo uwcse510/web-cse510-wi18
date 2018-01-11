@@ -349,6 +349,7 @@ calendar:
     title: "Research Topic: TBD"
   - date: Tue Jan 30
     title: "Research Topic: TBD"
+    guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
     content:
       - |
         <div class="alert" markdown="block">
@@ -405,6 +406,7 @@ calendar:
 
   - date: Thu Feb 15
     title: "Research Topic: TBD"
+    guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
 
   - date: Tue Feb 20
     title: "Research Topic: Context-Aware Interaction"
@@ -412,6 +414,8 @@ calendar:
     
   - date: Thu Feb 22
     title: "Research Topic: TBD"
+    guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
+    
   - date: Tue Feb 27
     title: "Project Progress Presentations"
     content:
@@ -436,6 +440,7 @@ calendar:
         
   - date: Thu Mar 1
     title: "Research Topic: TBD"
+    guest: "[Jennifer Mankoff](https://www.cs.washington.edu/people/faculty/jmankoff)"
   - date: Tue Mar 6
     title: "Research Topic: TBD"
   - date: Thu Mar 8
