@@ -408,7 +408,7 @@ calendar:
 
   - date: Tue Feb 20
     title: "Research Topic: Context-Aware Interaction"
-    guest: "[Anind Dey](https://www.cs.cmu.edu/~anind/)"
+    guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
     
   - date: Thu Feb 22
     title: "Research Topic: TBD"
