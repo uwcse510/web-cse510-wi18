@@ -45,28 +45,32 @@ paper_url:
   buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
   holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
   vogel2007:                    https://canvas.uw.edu/files/46091558/download?download_frd=1
+# Human Performance
+  accot1997:                    https://canvas.uw.edu/files/46133449/download?download_frd=1
+  apitz2004:                    https://canvas.uw.edu/files/46133451/download?download_frd=1
+  mackenzie1992:                https://canvas.uw.edu/files/46133453/download?download_frd=1
+  mackenzie2001:                https://canvas.uw.edu/files/46133447/download?download_frd=1
+  wobbrock2008:                 https://canvas.uw.edu/files/46133448/download?download_frd=1
+# Design Tools
+  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
+#  hartmann2006:                 https://canvas.uw.edu/files/41744439/download?download_frd=1
+#  klemmer2001:                  https://canvas.uw.edu/files/41744440/download?download_frd=1
+# Interacting with Code
+  ko2004:                       https://canvas.uw.edu/files/46133590/download?download_frd=1
+  bragdon2010:                  https://canvas.uw.edu/files/46133596/download?download_frd=1
+  verou2016:                    https://canvas.uw.edu/files/46133597/download?download_frd=1
+# Interface Toolkits
+  bostock2011:                  https://canvas.uw.edu/files/46133657/download?download_frd=1
+  dixon2010:                    https://canvas.uw.edu/files/46133654/download?download_frd=1
+  myers2000:                    https://canvas.uw.edu/files/46133656/download?download_frd=1
 #  # ICTD
 #  toyama2011:                   https://canvas.uw.edu/files/41704822/download?download_frd=1
 #  heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
 #  smyth2010:                    https://canvas.uw.edu/files/41704821/download?download_frd=1
-#  # Human Performance
-#  accot1997:                    https://canvas.uw.edu/files/41702724/download?download_frd=1
-#  apitz2004:                    https://canvas.uw.edu/files/41702725/download?download_frd=1
-#  mackenzie1992:                https://canvas.uw.edu/files/41702726/download?download_frd=1
-#  mackenzie2001:                https://canvas.uw.edu/files/41702727/download?download_frd=1
-#  wobbrock2008:                 https://canvas.uw.edu/files/41702728/download?download_frd=1
-#  # Design Tools
-#  hartmann2006:                 https://canvas.uw.edu/files/41744439/download?download_frd=1
-#  klemmer2001:                  https://canvas.uw.edu/files/41744440/download?download_frd=1
-#  newman2003:                   https://canvas.uw.edu/files/41744441/download?download_frd=1
 #  # Interacting with Cameras
 #  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
 #  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
 #  wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
-#  # Interacting with Code
-#  green1996:                    https://canvas.uw.edu/files/42006234/download?download_frd=1
-#  bragdon2010:                  https://canvas.uw.edu/files/42006233/download?download_frd=1
-#  verou2016:                    https://canvas.uw.edu/files/42006235/download?download_frd=1
 #  # Accessibility
 #  mankoff2010:                  https://canvas.uw.edu/files/42020617/download?download_frd=1
 #  wobbrock2011:                 https://canvas.uw.edu/files/42020620/download?download_frd=1
@@ -74,10 +78,6 @@ paper_url:
 #  patel2008:                    https://canvas.uw.edu/files/42432244/download?download_frd=1
 #  cheng2015:                    https://canvas.uw.edu/files/42432240/download?download_frd=1
 #  fails2003:                    https://canvas.uw.edu/files/42432242/download?download_frd=1
-#  # Toolkit
-#  bostock2011:                  https://canvas.uw.edu/files/42020390/download?download_frd=1
-#  dixon2010:                    https://canvas.uw.edu/files/42020392/download?download_frd=1
-#  myers2000:                    https://canvas.uw.edu/files/42020393/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
@@ -101,14 +101,14 @@ calendar:
       - |
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
 
-  - date:  Mon&nbsp;Jan&nbsp;8 to&nbsp;Fri&nbsp;Jan&nbsp;12
-    title: Project Early Feedback Meetings
-    content:
-      - |
-        Meeting is optional. You can also email to request feedback or to inquire about arranging another time to meet. 
-        Sign up for the reserved meeting times here:
-        
-        <https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>
+#  - date:  Mon&nbsp;Jan&nbsp;8 to&nbsp;Fri&nbsp;Jan&nbsp;12
+#    title: Project Early Feedback Meetings
+#    content:
+#      - |
+#        Meeting is optional. You can also email to request feedback or to inquire about arranging another time to meet. 
+#        Sign up for the reserved meeting times here:
+#        
+#        <https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>
         
   - date: Tue Jan 9
     title: "Visions of Human-Computer Interaction"
@@ -199,6 +199,7 @@ calendar:
 
   - date: Thu Jan 11
     title: "Contributions and Methods in HCI"
+    collapse: True
     content:
       - |
         Read the following framing papers:
@@ -342,14 +343,50 @@ calendar:
         Only one paper is assigned, so that will be the focus of your reading report.
 
   - date: Thu Jan 18
-    title: "Research Topic: TBD"
+    title: "Research Topic: Human Performance with Computing Systems"
+    guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
+    reading_framing:
+      - |
+        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
+    reading_instances:
+      - |
+        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
+      - |
+        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application]({{ page.paper_url.apitz2004 }}). UIST 2004. 
+    reading_resources:
+      - |
+        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
+      - |
+        Jacob O. Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.
+
   - date: Tue Jan 23
-    title: "Research Topic: TBD"
+    title: "Research Topic: Design Tools"
+    reading_framing:
+      - |
+        Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
+#    reading_instances:
+#      - |
+#        Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface for Collaborative Web Site Design]({{ page.paper_url.klemmer2001 }}). UIST 2001.
+#      - |
+#        Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
+
   - date: Thu Jan 25
-    title: "Research Topic: TBD"
+    title: "Experimental Design and Analysis"
+    content:
+      - |
+        No Readings Assigned
+
   - date: Tue Jan 30
-    title: "Research Topic: TBD"
+    title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
+    reading_framing:
+      - |
+        Andrew J. Ko, Brad A. Myers, and Htet Htet Aung. [Six Learning Barriers in End-User Programming Systems]({{ page.paper_url.ko2004 }}). VL/HCC 2004.
+    reading_instances:
+      - |
+        Andrew Bragdon, Robert Zeleznik, Steven P. Reiss, Suman Karumuri, william Cheung, Joshua Kaplan, Christopher Coleman, Ferdi Adeputra, Joseph J. LaViola, Jr. [Code Bubbles: A Working Set-Based Interface for Code Understanding and Maintenance]({{ page.paper_url.bragdon2010 }}). CHI 2010.
+      - |
+        Lea Verou, Amy X. Zhang, David R. Karger. [Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML]({{ page.paper_url.verou2016 }}). UIST 2016.
     content:
       - |
         <div class="alert" markdown="block">
@@ -413,7 +450,7 @@ calendar:
     guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
     
   - date: Thu Feb 22
-    title: "Research Topic: TBD"
+    title: "Research Topic: Designing Creativity Tools for Children"
     guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
     
   - date: Tue Feb 27
@@ -442,7 +479,16 @@ calendar:
     title: "Research Topic: TBD"
     guest: "[Jennifer Mankoff](https://www.cs.washington.edu/people/faculty/jmankoff)"
   - date: Tue Mar 6
-    title: "Research Topic: TBD"
+    title: "Research Topic: Interface Toolkits"
+    reading_framing:
+      - |
+        Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools]({{page.paper_url.myers2000}}). TOCHI 2000.
+    reading_instances:
+      - |
+        Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents]({{page.paper_url.bostock2011}}). InfoVis 2011.
+      - |
+        Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
+
   - date: Thu Mar 8
     title: "Research Topic: Critical Inquiry in HCI and Design"
     guest: "[Daniela Rosner](http://www.danielarosner.com/)"
@@ -475,45 +521,6 @@ calendar:
 #        Kurtis Heimerl, Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks]( {{ page.paper_url.heimerl2014}}). ICTD 2013 Special Issue. Information Technologies & International Development 11(1). (2014).
 #      - |
 #        Thomas N. Smyth. [Where There's a Will There's a Way: Mobile Media Sharing in Urban India]( {{ page.paper_url.smyth2010}}). CHI 2010.
-#  - date:  Tue Apr 18
-#    collapse: true
-#    slides: "https://canvas.uw.edu/files/42006603/download?download_frd=1"
-#    title: "Research Topic: Human Performance"
-#    guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
-#    discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3757333
-#    reading_framing:
-#      - |
-#        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
-#    reading_instances:
-#      - |
-#        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
-#      - |
-#        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application]({{ page.paper_url.apitz2004 }}). UIST 2004. 
-#    reading_resources:
-#      - |
-#        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
-#      - |
-#        Jacob O. Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.   
-#  - date:  Thu Apr 20
-#    collapse: true
-#    slides: "https://canvas.uw.edu/files/42112156/download?download_frd=1"
-#    title: "Research Topic: Design Tools"
-#    discussion: https://canvas.uw.edu/courses/1138154/discussion_topics/3769837
-#    reading_framing:
-#      - |
-#        Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
-#    reading_instances:
-#      - |
-#        Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface for Collaborative Web Site Design]({{ page.paper_url.klemmer2001 }}). UIST 2001.
-#      - |
-#        Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
-#  - date:  Tue Apr 25
-#    collapse: true
-#    title: Experimental Design and Analysis
-#    slides: "https://canvas.uw.edu/files/42565009/download?download_frd=1"
-#    content:
-#      - |
-#        No Readings Assigned
 
 #  - date:  Tue May 2
 #    collapse: true
@@ -551,19 +558,7 @@ calendar:
 ##    reading_resources:
 ##      - |
 ##      - |
-#  - date:  Thu May 18
-#    collapse: true
-#    title: "Research Topic: Interface Toolkits"
-#    slides: "https://canvas.uw.edu/files/42598151/download?download_frd=1"
-#    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3817603"
-#    reading_framing:
-#      - |
-#        Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools]({{page.paper_url.myers2000}}). TOCHI 2000.
-#    reading_instances:
-#      - |
-#        Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents]({{page.paper_url.bostock2011}}). InfoVis 2011.
-#      - |
-#        Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
+
 #  - date:  Fri May 19
 #    collapse: True
 #    title: Statistics Lab Due
@@ -588,23 +583,6 @@ calendar:
 #      - |
 #        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
 
-#  - date:  Thu Jun 1
-#    collapse: True
-#    title: "Research Topic: Interacting with Code"
-#    guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
-#    slides: "https://canvas.uw.edu/files/42874831/download?download_frd=1"
-#    discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788041"
-#    reading_framing:
-#      - |
-#        T. R. G. Green, & Marian Petre. [Usability Analysis of Visual Programming Environments: A 'Cognitive Dimensions' Framework]({{ page.paper_url.green1996 }}). Journal of Visual Languages & Computing, 1996.
-#    reading_instances:
-#      - |
-#        Andrew Bragdon, Robert Zeleznik, Steven P. Reiss, Suman Karumuri, william Cheung, Joshua Kaplan, Christopher Coleman, Ferdi Adeputra, Joseph J. LaViola, Jr. [Code Bubbles: A Working Set-Based Interface for Code Understanding and Maintenance]({{ page.paper_url.bragdon2010 }}). CHI 2010.
-#      - |
-#        Lea Verou, Amy X. Zhang, David R. Karger. [Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML]({{ page.paper_url.verou2016 }}). UIST 2016.
-##    reading_resources:
-##      - |
-##      - |
 ---
 
 {% comment %}
