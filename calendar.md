@@ -476,7 +476,7 @@ calendar:
         <{{ page.canvas.milestone2_pres }}>
         
   - date: Thu Mar 1
-    title: "Research Topic: TBD"
+    title: "Research Topic: Uncertainty in User Interfaces"
     guest: "[Jennifer Mankoff](https://www.cs.washington.edu/people/faculty/jmankoff)"
   - date: Tue Mar 6
     title: "Research Topic: Interface Toolkits"
