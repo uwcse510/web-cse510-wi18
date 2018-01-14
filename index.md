@@ -202,6 +202,9 @@ Much of the grading in this course is necessarily subjective.
 We will attempt to communicate expectations and feedback throughout the course,
 but it is your responsibility to communicate with us if you would like guidance in this regard.
 
+Project milestone grading will emphasize progress and preparation to engage with direction and feedback.
+Final project report grading will then consider overall execution.
+
 ## Contributing
 
 This course website lives on GitHub:
