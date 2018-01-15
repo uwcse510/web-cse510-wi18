@@ -63,10 +63,10 @@ paper_url:
   bostock2011:                  https://canvas.uw.edu/files/46133657/download?download_frd=1
   dixon2010:                    https://canvas.uw.edu/files/46133654/download?download_frd=1
   myers2000:                    https://canvas.uw.edu/files/46133656/download?download_frd=1
-#  # ICTD
-#  toyama2011:                   https://canvas.uw.edu/files/41704822/download?download_frd=1
-#  heimerl2014:                  https://canvas.uw.edu/files/41704820/download?download_frd=1
-#  smyth2010:                    https://canvas.uw.edu/files/41704821/download?download_frd=1
+# ICTD
+  brewer2005:                   https://canvas.uw.edu/files/46168292/download?download_frd=1
+  smyth2010:                    https://canvas.uw.edu/files/46168273/download?download_frd=1
+  irani2010:                    https://canvas.uw.edu/files/46168393/download?download_frd=1
 #  # Interacting with Cameras
 #  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
 #  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
@@ -78,6 +78,11 @@ paper_url:
 #  patel2008:                    https://canvas.uw.edu/files/42432244/download?download_frd=1
 #  cheng2015:                    https://canvas.uw.edu/files/42432240/download?download_frd=1
 #  fails2003:                    https://canvas.uw.edu/files/42432242/download?download_frd=1
+# Designing Creativity Tools for Children
+  resnick2005:                  https://canvas.uw.edu/files/46168621/download?download_frd=1
+  kazemitabaar2017:             https://canvas.uw.edu/files/46168619/download?download_frd=1
+  resnick2009:                  https://canvas.uw.edu/files/46168622/download?download_frd=1
+  resnick2000:                  https://canvas.uw.edu/files/46168620/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
@@ -396,6 +401,14 @@ calendar:
   - date: Thu Feb 1
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
+    reading_framing:
+      - |
+        Eric Brewer, Michael Demmer, Bowei Du, Melissa Ho, Matthew Kam, Sergiu Nedevschi, Joyojeet Pal, Rabin Patra, Sonesh Surana, and Kevin Fall. [The Case for Technology in Developing Regions]({{ page.paper_url.brewer2005 }}). IEEE Computer Magazine 2005.
+    reading_instances:
+      - |
+        Thomas N. Smyth. [Where There’s a Will There’s a Way: Mobile Media Sharing in Urban India]({{ page.paper_url.smyth2010 }}). CHI 2010.
+      - |
+        Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip, and Rebecca E. Grinter. [Postcolonial Computing: A Lens on Design and Development]({{ page.paper_url.irani2010 }}). CHI 2010.
     content:
       - |
         <div class="alert" markdown="block">
@@ -452,6 +465,18 @@ calendar:
   - date: Thu Feb 22
     title: "Research Topic: Designing Creativity Tools for Children"
     guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
+    reading_framing:
+      - |
+        Mitchel Resnick, Brian Silverman. [Some Reflections on Designing Construction Kits for Kids]({{ page.paper_url.resnick2005 }}). IDC 2005. 
+    reading_instances:
+      - |
+        Majeed Kazemitabaar, Jason McPeak, Alexander Jiao, Liang He, Thomas Outing, Jon E. Froehlich. [MakerWear: A Tangible Approach to Interactive Wearable Creation for Children]({{ page.paper_url.kazemitabaar2017 }}). CHI 2017.
+      - |
+        Mitchel Resnick, John Maloney, Andrés Monroy-Hernández, Natalie Rusk, Evelyn Eastmond, Karen Brennan, Amon Millner, Eric Rosenbaum, Jay Silver, Brian Silverman, and Yasmin Kafai. [Scratch: Programming for All]({{ page.paper_url.resnick2009 }}). Communications of the ACM 2009. 
+    reading_resources:
+      - |
+        Mitchel Resnick, Robbie Berg, Michael Eisenberg. [Beyond Black Boxes: Bringing Transparency and Aesthetics Back to Scientific Investigation]({{ page.paper_url.resnick2000 }}). Journal of the Learning Sciences 2000.
+
     
   - date: Tue Feb 27
     title: "Project Progress Presentations"
