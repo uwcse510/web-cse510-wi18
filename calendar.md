@@ -371,7 +371,7 @@ calendar:
         Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
     reading_instances:
       - |
-        Steven P. Dow, Alana Glassco, Jonathan Kass, Melissa Schwarz, Daniel L. Schwartz, Scott R. Klemmer. [Parallel Prototyping Leads to Better Design Results, More Divergence, and Increased Self-Efficacy]({{ page.paper_url.dow2010 }}). Computer-Human Interaction 2010.
+        Steven P. Dow, Alana Glassco, Jonathan Kass, Melissa Schwarz, Daniel L. Schwartz, Scott R. Klemmer. [Parallel Prototyping Leads to Better Design Results, More Divergence, and Increased Self-Efficacy]({{ page.paper_url.dow2010 }}). TOCHI 2010.
       - |
         Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
 
