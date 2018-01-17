@@ -53,8 +53,8 @@ paper_url:
   wobbrock2008:                 https://canvas.uw.edu/files/46133448/download?download_frd=1
 # Design Tools
   newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
-#  hartmann2006:                 https://canvas.uw.edu/files/41744439/download?download_frd=1
-#  klemmer2001:                  https://canvas.uw.edu/files/41744440/download?download_frd=1
+  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
+  dow2010:                      https://canvas.uw.edu/files/46208308/download?download_frd=1
 # Interacting with Code
   ko2004:                       https://canvas.uw.edu/files/46133590/download?download_frd=1
   bragdon2010:                  https://canvas.uw.edu/files/46133596/download?download_frd=1
@@ -369,11 +369,11 @@ calendar:
     reading_framing:
       - |
         Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
-#    reading_instances:
-#      - |
-#        Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface for Collaborative Web Site Design]({{ page.paper_url.klemmer2001 }}). UIST 2001.
-#      - |
-#        Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
+    reading_instances:
+      - |
+        Steven P. Dow, Alana Glassco, Jonathan Kass, Melissa Schwarz, Daniel L. Schwartz, Scott R. Klemmer. [Parallel Prototyping Leads to Better Design Results, More Divergence, and Increased Self-Efficacy]({{ page.paper_url.dow2010 }}). Computer-Human Interaction 2010.
+      - |
+        Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
 
   - date: Thu Jan 25
     title: "Experimental Design and Analysis"
