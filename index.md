@@ -4,10 +4,10 @@ title: Course Overview
 
 canvas_url: https://canvas.uw.edu/courses/1187533/discussion_topics
 
-canvas_stats_submit: 
+canvas_stats_submit: https://canvas.uw.edu/courses/1187533/assignments/4073435
 
 canvas_exam: 
-canvas_exam_submit: 
+canvas_exam_submit: https://canvas.uw.edu/courses/1187533/assignments/4073437
 ---
 
 {% comment %}
@@ -161,11 +161,11 @@ The assignment is available for download:
 
 ### Submission
 
-`Due: Uploaded Friday, May 19, 2017.`
+Due: Uploaded by end of day Friday, February 16, 2018.
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
-`<{{page.canvas_stats_submit}}>`
+<{{page.canvas_stats_submit}}>
 
 ## Exam
 
@@ -184,9 +184,9 @@ The exam is available for download:
 
 ### Submission
 
-`Due: Uploaded by end of day Wednesday, June 7, 2017.`
+Due: Uploaded by end of day Friday, March 16, 2018.
 
-`<{{ page.canvas_exam_submit }}>`
+<{{ page.canvas_exam_submit }}>
 
 ## Grading
 
