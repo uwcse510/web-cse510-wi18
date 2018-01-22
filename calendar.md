@@ -299,6 +299,7 @@ calendar:
         No reading report is necessary.
 
   - date: Tue Jan 16
+    collapse: True
     title: "Project Proposal Presentations / Usability Evaluation Considered Harmful"
     content:
       - |
@@ -348,6 +349,7 @@ calendar:
         Only one paper is assigned, so that will be the focus of your reading report.
 
   - date: Thu Jan 18
+    collapse: True
     title: "Research Topic: Human Performance with Computing Systems"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
     reading_framing:
