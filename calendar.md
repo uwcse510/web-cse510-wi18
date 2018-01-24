@@ -92,7 +92,8 @@ canvas:
   milestone2_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018019
   milestone2_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018017
   final_rep:        https://canvas.uw.edu/courses/1187533/assignments/4018022
-#  stats:            https://canvas.uw.edu/courses/1138154/assignments/3740017
+  stats:            https://canvas.uw.edu/courses/1187533/assignments/4073435
+  exam:             https://canvas.uw.edu/courses/1187533/assignments/4073437
 
 calendar:
   - date: Thu Jan 4
@@ -460,6 +461,20 @@ calendar:
     title: "Research Topic: TBD"
     guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
 
+  - date:  Fri Feb 16
+    title: Statistics Lab Due 
+    content:
+      - |
+        <div class="major" markdown="block">
+        Due: Statistics Lab 
+        </div>
+      - |
+        ### Submission
+        
+        Submit your ZIP file:
+
+        <{{ page.canvas.stats }}>
+
   - date: Tue Feb 20
     title: "Research Topic: Context-Aware Interaction"
     guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
@@ -532,6 +547,20 @@ calendar:
         Submit your document in PDF format:
 
         <{{ page.canvas.final_rep }}>
+
+  - date:  Fri Mar 16
+    title: Exam Due 
+    content:
+      - |
+        <div class="major" markdown="block">
+        Due: Exam 
+        </div>
+      - |
+        ### Submission
+        
+        Submit your document in PDF format:
+
+        <{{ page.canvas.exam }}>
   
 
 #  - date:  Thu Apr 13
