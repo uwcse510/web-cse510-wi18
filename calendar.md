@@ -466,7 +466,7 @@ calendar:
     content:
       - |
         <div class="major" markdown="block">
-        Due: Statistics Lab 
+        Due: [Statistics Lab]({{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip) 
         </div>
       - |
         ### Submission

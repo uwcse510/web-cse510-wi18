@@ -157,7 +157,7 @@ Jacob Wobbrock's independent study in Practical Statistics for Human-Computer I
 
 The assignment is available for download:
 
-`<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>`
+<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>
 
 ### Submission
 
