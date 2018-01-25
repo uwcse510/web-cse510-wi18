@@ -161,7 +161,7 @@ The assignment is available for download:
 
 ### Submission
 
-Due: Uploaded by end of day Friday, February 16, 2018.
+Due: Uploaded by end of day Sunday, February 18, 2018.
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
