@@ -353,6 +353,7 @@ calendar:
     collapse: True
     title: "Research Topic: Human Performance with Computing Systems"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
+    slides: "https://canvas.uw.edu/files/46402767/download?download_frd=1"
     reading_framing:
       - |
         I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
@@ -366,9 +367,12 @@ calendar:
         I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
       - |
         Jacob O. Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.
+      - |
+        [FittsStudy Software](https://depts.washington.edu/madlab/proj/fittsstudy/).
 
   - date: Tue Jan 23
     title: "Research Topic: Design Tools"
+    slides: "https://canvas.uw.edu/files/46402755/download?download_frd=1"
     reading_framing:
       - |
         Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
@@ -380,7 +384,12 @@ calendar:
 
   - date: Thu Jan 25
     title: "Experimental Design and Analysis"
+    slides: "https://canvas.uw.edu/files/46402721/download?download_frd=1"
     content:
+      - |
+        <div class="major" markdown="block">
+        Assigned: [Statistics Lab]({{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip)
+        </div>
       - |
         No Readings Assigned
 
@@ -461,7 +470,7 @@ calendar:
     title: "Research Topic: TBD"
     guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
 
-  - date:  Fri Feb 16
+  - date:  Sun Feb 18
     title: Statistics Lab Due 
     content:
       - |
