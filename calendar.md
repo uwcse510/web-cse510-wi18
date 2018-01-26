@@ -71,9 +71,10 @@ paper_url:
 #  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
 #  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
 #  wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
-#  # Accessibility
-#  mankoff2010:                  https://canvas.uw.edu/files/42020617/download?download_frd=1
-#  wobbrock2011:                 https://canvas.uw.edu/files/42020620/download?download_frd=1
+# Accessibility
+  wobbrock2011:                  https://canvas.uw.edu/files/46442084/download?download_frd=1
+  bigham2010:                    https://canvas.uw.edu/files/46442081/download?download_frd=1
+  pradhan2018:                   https://canvas.uw.edu/files/46442083/download?download_frd=1
 #  # Human-Centered Machine Learning
 #  patel2008:                    https://canvas.uw.edu/files/42432244/download?download_frd=1
 #  cheng2015:                    https://canvas.uw.edu/files/42432240/download?download_frd=1
@@ -83,6 +84,10 @@ paper_url:
   kazemitabaar2017:             https://canvas.uw.edu/files/46168619/download?download_frd=1
   resnick2009:                  https://canvas.uw.edu/files/46168622/download?download_frd=1
   resnick2000:                  https://canvas.uw.edu/files/46168620/download?download_frd=1
+# Context-Aware Interaction
+  salber1999:                   https://canvas.uw.edu/files/46441827/download?download_frd=1
+  banovic2017:                  https://canvas.uw.edu/files/46441826/download?download_frd=1
+  bae2017:                      https://canvas.uw.edu/files/46441825/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
@@ -463,8 +468,16 @@ calendar:
         Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch]( {{ page.paper_url.vogel2007 }}). CHI 2007.
 
   - date: Tue Feb 13
-    title: "Research Topic: Accessibility"
-    guest: "[Leah Findlater](https://faculty.washington.edu/leahkf/)"
+    title: "Research Topic: Context-Aware Interaction"
+    guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
+    reading_framing:
+      - |
+        Daniel Salber, Anind K. Dey, Gregory D. Abowd. [The Context Toolkit: Aiding the Development of Context-Enabled Applications]({{ page.paper_url.salber1999 }}). CHI 1999.
+    reading_instances:
+      - |
+        Nikola Banovic, Anqi Wang, Yanfeng Jin, Christie Chang, Julian Ramos, Anind K. Dey, Jennifer Mankoff. [Leveraging Human Routine Models to Detect and Generate Human Behaviors]({{ page.paper_url.banovic2017 }}). CHI 2017.
+      - |
+        Sangwon Bae, Denzil Ferreira, Brian Suffoletto, Juan C. Puyana, Ryan Kurtz, Tammy Chung, Anind K. Dey. [Detecting Drinking Episodes in Young Adults Using Smartphone-based Sensors]( {{ page.paper_url.bae2017 }}). IMWUT 2017.
 
   - date: Thu Feb 15
     title: "Research Topic: TBD"
@@ -485,8 +498,17 @@ calendar:
         <{{ page.canvas.stats }}>
 
   - date: Tue Feb 20
-    title: "Research Topic: Context-Aware Interaction"
-    guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
+    title: "Research Topic: Accessibility"
+    guest: "[Leah Findlater](https://faculty.washington.edu/leahkf/)"
+    reading_framing:
+      - |
+        Jacob O. Wobbrock, Shaun K. Kane, Krzysztof Z. Gajos, Susumu Harada, Jon Froehlich. [Ability-Based Design: Concept, Principles and Examples]({{ page.paper_url.wobbrock2011 }}). TACCESS 2011.
+    reading_instances:
+      - |
+        Jeffrey P Bigham, Chandrika Jayant, Hanjie Ji, Greg Little, Andrew Miller, Robert C Miller, Robin Miller, Aubrey Tatarowicz, Brandyn White, Samual White, Tom Yeh. [VizWiz: Nearly Real-time Answers to Visual Questions]({{ page.paper_url.bigham2010 }}). UIST 2010.
+      - |
+        Alisha Pradhan, Kanika Mehta, Leah Findlater. [“Accessibility Came by Accident”: Use of Voice-Controlled Intelligent Personal Assistants by People with Disabilities]( {{ page.paper_url.pradhan2018 }}). CHI 2018 (To Appear).
+
     
   - date: Thu Feb 22
     title: "Research Topic: Designing Creativity Tools for Children"
