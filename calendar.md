@@ -487,7 +487,7 @@ calendar:
         Sangwon Bae, Denzil Ferreira, Brian Suffoletto, Juan C. Puyana, Ryan Kurtz, Tammy Chung, Anind K. Dey. [Detecting Drinking Episodes in Young Adults Using Smartphone-based Sensors]( {{ page.paper_url.bae2017 }}). IMWUT 2017.
 
   - date: Thu Feb 15
-    title: "Research Topic: Human Perception (and Its Manipulation)"
+    title: "Research Topic: Human Perception and Its Manipulation"
     guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
     reading_framing:
       - |
