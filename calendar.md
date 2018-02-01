@@ -70,7 +70,7 @@ paper_url:
 #  # Interacting with Cameras
 #  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
 #  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
-#  wilson2014:                   https://canvas.uw.edu/files/41703284/download?download_frd=1
+#  wilson2014_alreadyAssigned:   https://canvas.uw.edu/files/41703284/download?download_frd=1
 # Accessibility
   wobbrock2011:                  https://canvas.uw.edu/files/46442084/download?download_frd=1
   bigham2010:                    https://canvas.uw.edu/files/46442081/download?download_frd=1
@@ -88,6 +88,10 @@ paper_url:
   salber1999:                   https://canvas.uw.edu/files/46441827/download?download_frd=1
   banovic2017:                  https://canvas.uw.edu/files/46441826/download?download_frd=1
   bae2017:                      https://canvas.uw.edu/files/46441825/download?download_frd=1
+# Human Perception (and Its Manipulation)
+  macknik2008:                  https://canvas.uw.edu/files/46524690/download?download_frd=1
+  azmandian2016:                https://canvas.uw.edu/files/46524688/download?download_frd=1
+  wilson2014:                   https://canvas.uw.edu/files/46524691/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
@@ -376,6 +380,7 @@ calendar:
         [FittsStudy Software](https://depts.washington.edu/madlab/proj/fittsstudy/).
 
   - date: Tue Jan 23
+    collapse: True
     title: "Research Topic: Design Tools"
     slides: "https://canvas.uw.edu/files/46402755/download?download_frd=1"
     reading_framing:
@@ -388,6 +393,7 @@ calendar:
         Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
 
   - date: Thu Jan 25
+    collapse: True
     title: "Experimental Design and Analysis"
     slides: "https://canvas.uw.edu/files/46402721/download?download_frd=1"
     content:
@@ -399,6 +405,7 @@ calendar:
         No Readings Assigned
 
   - date: Tue Jan 30
+    collapse: True
     title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
     reading_framing:
@@ -480,8 +487,16 @@ calendar:
         Sangwon Bae, Denzil Ferreira, Brian Suffoletto, Juan C. Puyana, Ryan Kurtz, Tammy Chung, Anind K. Dey. [Detecting Drinking Episodes in Young Adults Using Smartphone-based Sensors]( {{ page.paper_url.bae2017 }}). IMWUT 2017.
 
   - date: Thu Feb 15
-    title: "Research Topic: TBD"
+    title: "Research Topic: Human Perception and Its Manipulation"
     guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
+    reading_framing:
+      - |
+        Stephen L. Macknik, Mac King, James Randi, Apollo Robbins, Teller, John Thompson, Susana Martinez-Conde. [Attention And Awareness in Stage Magic: Turning Tricks into Research]({{ page.paper_url.macknik2008 }}). Nature Reviews Neuroscience 2008.
+    reading_instances:
+      - |
+        Mahdi Azmandian, Mark Hancock, Hrvoje Benko, Eyal Ofek, Andrew D. Wilson. [Haptic Retargeting: Dynamic Repurposing of Passive Haptics for Enhanced Virtual Reality Experiences]({{ page.paper_url.azmandian2016 }}). CHI 2016.
+      - |
+        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
 
   - date:  Sun Feb 18
     title: Statistics Lab Due 
