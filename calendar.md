@@ -406,6 +406,7 @@ calendar:
 
   - date: Tue Jan 30
     collapse: True
+    slides: "https://canvas.uw.edu/files/46727857/download?download_frd=1"
     title: "Research Topic: Interacting with Code"
     guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
     reading_framing:
@@ -423,6 +424,8 @@ calendar:
         </div>
         
   - date: Thu Feb 1
+    collapse: True
+    slides: "https://canvas.uw.edu/files/46727861/download?download_frd=1"
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Kurtis Heimerl](http://kurti.sh/)"
     reading_framing:
@@ -440,6 +443,7 @@ calendar:
         </div>
         
   - date: Tue Feb 6
+    collapse: True
     title: "Project Progress Presentations"
     content:
       - |
