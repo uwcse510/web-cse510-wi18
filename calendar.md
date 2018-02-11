@@ -466,6 +466,8 @@ calendar:
         <{{ page.canvas.milestone1_pres }}>
         
   - date: Thu Feb 8
+    collapse: True
+    slides: "https://canvas.uw.edu/files/46786993/download?download_frd=1"
     title: "Research Topic: Modeling Touch Input"
     guest: "[Christian Holz](http://www.christianholz.net/)"
     # discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788839"
