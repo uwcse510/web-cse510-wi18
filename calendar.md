@@ -92,6 +92,10 @@ paper_url:
   macknik2008:                  https://canvas.uw.edu/files/46524690/download?download_frd=1
   azmandian2016:                https://canvas.uw.edu/files/46524688/download?download_frd=1
   wilson2014:                   https://canvas.uw.edu/files/46524691/download?download_frd=1
+# Uncertainty in User Interfaces
+  schwarz2015:                  https://canvas.uw.edu/files/46910056/download?download_frd=1
+  kim2017:                      https://canvas.uw.edu/files/46910043/download?download_frd=1
+  heer2004:                     https://canvas.uw.edu/files/46908023/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
@@ -481,6 +485,7 @@ calendar:
         Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch]( {{ page.paper_url.vogel2007 }}). CHI 2007.
 
   - date: Tue Feb 13
+    collapse: True
     title: "Research Topic: Context-Aware Interaction"
     guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
     reading_framing:
@@ -493,6 +498,7 @@ calendar:
         Sangwon Bae, Denzil Ferreira, Brian Suffoletto, Juan C. Puyana, Ryan Kurtz, Tammy Chung, Anind K. Dey. [Detecting Drinking Episodes in Young Adults Using Smartphone-based Sensors]( {{ page.paper_url.bae2017 }}). IMWUT 2017.
 
   - date: Thu Feb 15
+    collapse: True
     title: "Research Topic: Human Perception and Its Manipulation"
     guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
     reading_framing:
@@ -572,6 +578,14 @@ calendar:
   - date: Thu Mar 1
     title: "Research Topic: Uncertainty in User Interfaces"
     guest: "[Jennifer Mankoff](https://www.cs.washington.edu/people/faculty/jmankoff)"
+    reading_framing:
+      - |
+        Jeffrey Heer, Nathaniel S. Good, Ana Ramirez, Marc Davis, Jennifer Mankoff. [Presiding Over Accidents: System Direction of Human Action]({{page.paper_url.heer2004}}). CHI 2004.
+    reading_instances:
+      - |
+        Jeeeun Kim, Anhong Guo, Tom Yeh, Scott E. Hudson, Jennifer Mankoff. [Understanding Uncertainty in Measurement and Accommodating its Impact in 3D Modeling and Printing]({{page.paper_url.kim2017}}). DIS 2017.
+      - |
+        Julia Schwarz, Jennifer Mankoff, Scott E. Hudson. [An Architecture for Generating Interactive Feedback in Probabilistic User Interfaces]({{page.paper_url.schwarz2015}}). CHI 2015.
   - date: Tue Mar 6
     title: "Research Topic: Interface Toolkits"
     reading_framing:
