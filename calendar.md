@@ -511,6 +511,7 @@ calendar:
         Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
 
   - date:  Sun Feb 18
+    collapse: True
     title: Statistics Lab Due 
     content:
       - |
@@ -525,6 +526,7 @@ calendar:
         <{{ page.canvas.stats }}>
 
   - date: Tue Feb 20
+    collapse: True
     title: "Research Topic: Accessibility"
     guest: "[Leah Findlater](https://faculty.washington.edu/leahkf/)"
     reading_framing:
@@ -551,6 +553,8 @@ calendar:
     reading_resources:
       - |
         Mitchel Resnick, Robbie Berg, Michael Eisenberg. [Beyond Black Boxes: Bringing Transparency and Aesthetics Back to Scientific Investigation]({{ page.paper_url.resnick2000 }}). Journal of the Learning Sciences 2000.
+      - |
+        [MakerWear: A Tangible Approach to Interactive Wearable Creation for Children](https://www.youtube.com/watch?v=14Fa_VOJHIA&feature=youtu.be)
 
     
   - date: Tue Feb 27
