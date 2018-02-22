@@ -609,7 +609,7 @@ calendar:
 
   - date: Thu Mar 8
     title: "Research Topic: Critical Inquiry in HCI and Design"
-    guest: "[Daniela Rosner](httpß//www.danielarosner.com/)"
+    guest: "[Daniela Rosner](http://www.danielarosner.com/)"
     reading_framing:
       - |
         Daniela K. Rosner. [Introduction: Why Fabulate Design]({{page.paper_url.rosnerintro}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
