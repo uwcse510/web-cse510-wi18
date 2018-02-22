@@ -96,6 +96,10 @@ paper_url:
   schwarz2015:                  https://canvas.uw.edu/files/46910056/download?download_frd=1
   kim2017:                      https://canvas.uw.edu/files/46910043/download?download_frd=1
   heer2004:                     https://canvas.uw.edu/files/46908023/download?download_frd=1
+# Critical Inquiry in HCI and Design
+  rosnerintro:                  https://canvas.uw.edu/files/47063658/download?download_frd=1
+  rosnerchap4:                  https://canvas.uw.edu/files/47063654/download?download_frd=1
+  rosnerchap5:                  https://canvas.uw.edu/files/47063656/download?download_frd=1
 
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
@@ -527,6 +531,7 @@ calendar:
 
   - date: Tue Feb 20
     collapse: True
+    slides: "https://canvas.uw.edu/files/47022090/download?download_frd=1"
     title: "Research Topic: Accessibility"
     guest: "[Leah Findlater](https://faculty.washington.edu/leahkf/)"
     reading_framing:
@@ -540,6 +545,7 @@ calendar:
 
     
   - date: Thu Feb 22
+    collapse: True
     title: "Research Topic: Designing Creativity Tools for Children"
     guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
     reading_framing:
@@ -603,7 +609,17 @@ calendar:
 
   - date: Thu Mar 8
     title: "Research Topic: Critical Inquiry in HCI and Design"
-    guest: "[Daniela Rosner](http://www.danielarosner.com/)"
+    guest: "[Daniela Rosner](httpß//www.danielarosner.com/)"
+    reading_framing:
+      - |
+        Daniela K. Rosner. [Introduction: Why Fabulate Design]({{page.paper_url.rosnerintro}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
+    reading_instances:
+      - |
+        Daniela K. Rosner. [Chap 4: Approaching Design as Critical Fabulations]({{page.paper_url.rosnerchap4}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
+      - |
+        Daniela K. Rosner. [Chap 5: Fabulating in Practice]({{page.paper_url.rosnerchap5}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
+
+
   - date:  Mon Mar 12
     title: Final Project Due
     content:
