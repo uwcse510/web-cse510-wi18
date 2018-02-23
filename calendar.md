@@ -546,6 +546,7 @@ calendar:
     
   - date: Thu Feb 22
     collapse: True
+    slides: "https://canvas.uw.edu/files/47083080/download?download_frd=1"
     title: "Research Topic: Designing Creativity Tools for Children"
     guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
     reading_framing:
