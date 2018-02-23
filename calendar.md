@@ -503,6 +503,7 @@ calendar:
 
   - date: Thu Feb 15
     collapse: True
+    slides: "https://canvas.uw.edu/files/47098766/download?download_frd=1"
     title: "Research Topic: Human Perception and Its Manipulation"
     guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
     reading_framing:
