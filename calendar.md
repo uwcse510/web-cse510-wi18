@@ -566,6 +566,7 @@ calendar:
 
     
   - date: Tue Feb 27
+    collapse: True
     title: "Project Progress Presentations"
     content:
       - |
@@ -588,6 +589,7 @@ calendar:
         <{{ page.canvas.milestone2_pres }}>
         
   - date: Thu Mar 1
+    collapse: True
     title: "Research Topic: Uncertainty in User Interfaces"
     guest: "[Jennifer Mankoff](https://www.cs.washington.edu/people/faculty/jmankoff)"
     reading_framing:
