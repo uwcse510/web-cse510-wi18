@@ -176,11 +176,11 @@ about course concepts. If you have kept pace with the readings, you will find th
 You may reference any of the articles, slides, notes, discussion posts, or other material readily available on the web.
 You may consult the course staff with any questions, but this is strictly an individual assignment (i.e., do not discuss it with others).
 
-### Download
+<!-- ### Download
 
 The exam is available for download:
 
-`<{{ page.canvas_exam }}>`
+`<{{ page.canvas_exam }}>` -->
 
 ### Submission
 
