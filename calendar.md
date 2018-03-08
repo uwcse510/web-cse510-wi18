@@ -600,7 +600,9 @@ calendar:
         Jeeeun Kim, Anhong Guo, Tom Yeh, Scott E. Hudson, Jennifer Mankoff. [Understanding Uncertainty in Measurement and Accommodating its Impact in 3D Modeling and Printing]({{page.paper_url.kim2017}}). DIS 2017.
       - |
         Julia Schwarz, Jennifer Mankoff, Scott E. Hudson. [An Architecture for Generating Interactive Feedback in Probabilistic User Interfaces]({{page.paper_url.schwarz2015}}). CHI 2015.
+
   - date: Tue Mar 6
+    collapse: True
     title: "Research Topic: Interface Toolkits"
     reading_framing:
       - |
@@ -612,6 +614,7 @@ calendar:
         Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
 
   - date: Thu Mar 8
+    collapse: True
     title: "Research Topic: Critical Inquiry in HCI and Design"
     guest: "[Daniela Rosner](http://www.danielarosner.com/)"
     reading_framing:
