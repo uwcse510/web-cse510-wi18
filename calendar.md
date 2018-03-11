@@ -603,6 +603,7 @@ calendar:
 
   - date: Tue Mar 6
     collapse: True
+    slides: "https://canvas.uw.edu/files/47492525/download?download_frd=1"
     title: "Research Topic: Interface Toolkits"
     reading_framing:
       - |
