@@ -616,6 +616,7 @@ calendar:
 
   - date: Thu Mar 8
     collapse: True
+    slides: "https://canvas.uw.edu/files/47558998/download?download_frd=1"
     title: "Research Topic: Critical Inquiry in HCI and Design"
     guest: "[Daniela Rosner](http://www.danielarosner.com/)"
     reading_framing:
