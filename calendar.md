@@ -590,6 +590,7 @@ calendar:
         
   - date: Thu Mar 1
     collapse: True
+    slides: "https://canvas.uw.edu/files/47592150/download?download_frd=1"
     title: "Research Topic: Uncertainty in User Interfaces"
     guest: "[Jennifer Mankoff](https://www.cs.washington.edu/people/faculty/jmankoff)"
     reading_framing:
