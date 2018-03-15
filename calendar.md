@@ -490,6 +490,7 @@ calendar:
 
   - date: Tue Feb 13
     collapse: True
+    slides: "https://canvas.uw.edu/files/47649001/download?download_frd=1"
     title: "Research Topic: Context-Aware Interaction"
     guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
     reading_framing:
@@ -631,6 +632,7 @@ calendar:
 
 
   - date:  Mon Mar 12
+    collapse: True
     title: Final Project Due
     content:
       - |
